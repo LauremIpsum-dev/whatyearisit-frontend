@@ -1,6 +1,6 @@
 //get year
 
-let urlVercel ="https://whatyearisit-backend-hazel-nine.vercel.app/";
+let urlVercel ="https://whatyearisit-backend-hazel-nine.vercel.app/year";
 
 fetch(urlVercel)
 .then(response =>response.json())
